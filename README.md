@@ -5,7 +5,8 @@
 2. place Components Artwork (아트웍 설계)
 3. Manufacturing (pcb 제작)
 
-![image](https://github.com/hsy0511/PCB-create/assets/104752580/15832261-638b-40b4-9608-c8dbff1a2dba)
+![image](https://github.com/hsy0511/PCB-create/assets/104752580/d2d3c784-93f3-4763-9597-8b05a07ea0f0)
+
 
 ## 1-2. 공장에서 제조하는 과정
 - 원자재입고 : 원자재가 입고되어 수입검사 후 각 공정으로 불출
